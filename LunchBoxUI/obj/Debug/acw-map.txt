@@ -1,0 +1,8 @@
+LunchBoxUI.dialogue_SignUp, LunchBoxUI;md53d52751c2e3b07dc2b94167f3bf133b5.dialogue_SignUp
+LunchBoxUI.dialogue_SignUp, LunchBoxUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53d52751c2e3b07dc2b94167f3bf133b5.dialogue_SignUp
+LunchBoxUI.dialogue_SignUp;md53d52751c2e3b07dc2b94167f3bf133b5.dialogue_SignUp
+lunchboxui.dialogue_SignUp;md53d52751c2e3b07dc2b94167f3bf133b5.dialogue_SignUp
+LunchBoxUI.MainActivity, LunchBoxUI;md53d52751c2e3b07dc2b94167f3bf133b5.MainActivity
+LunchBoxUI.MainActivity, LunchBoxUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53d52751c2e3b07dc2b94167f3bf133b5.MainActivity
+LunchBoxUI.MainActivity;md53d52751c2e3b07dc2b94167f3bf133b5.MainActivity
+lunchboxui.MainActivity;md53d52751c2e3b07dc2b94167f3bf133b5.MainActivity
